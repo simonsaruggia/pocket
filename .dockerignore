@@ -1,0 +1,6 @@
+.git
+.env*
+private
+*.sqlite*
+node_modules
+tests

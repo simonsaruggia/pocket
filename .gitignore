@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env*
+*.sqlite*
+private/
+.railway/
+
+# Credentials and local data
+*.pem
+*.key
+*.p12
+*.pfx
+*.db
+*.db-*
+*.csv
+*.log
+.DS_Store
